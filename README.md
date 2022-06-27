@@ -12,6 +12,8 @@
 
 - :rocket: &nbsp; I'm currently working on my new website.
 
+- :grin: &nbsp; I'm learning something all the time!
+
 <!--
 **jakubgania/jakubgania** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
