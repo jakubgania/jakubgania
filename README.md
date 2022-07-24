@@ -10,7 +10,7 @@
 
 - :computer: &nbsp; I'm a software engineer specializing in full-stack web development.
 
-- :rocket: &nbsp; I'm currently working on my new website.
+- :rocket: &nbsp; I'm currently working on various projects.
 
 - :grin: &nbsp; I'm learning something all the time!
 
