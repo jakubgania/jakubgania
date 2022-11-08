@@ -16,7 +16,7 @@
 
 - :iphone: &nbsp; First steps in the development of mobile applications - iOS.
 
-- :test_tube: &nbsp; I like to experiment
+- :test_tube: &nbsp; I like to experiment.
 
 <!-- :test_tube: -->
 
