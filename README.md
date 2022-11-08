@@ -16,6 +16,10 @@
 
 - :iphone: &nbsp; First steps in the development of mobile applications - iOS.
 
+- :test_tube: &nbsp; I like to experiment
+
+<!-- :test_tube: -->
+
 <!--
 **jakubgania/jakubgania** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
