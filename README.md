@@ -14,6 +14,8 @@
 
 - :grin: &nbsp; I'm learning something all the time!
 
+- :iphone: &nbsp; First steps in the development of mobile applications - iOS.
+
 <!--
 **jakubgania/jakubgania** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
