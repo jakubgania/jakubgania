@@ -12,6 +12,8 @@
 
 - :rocket: &nbsp; I'm currently working on various projects.
 
+- :cloud: &nbsp; I explore cloud technologies
+
 - :grin: &nbsp; I'm learning something all the time!
 
 - :iphone: &nbsp; First steps in the development of mobile applications - iOS.
