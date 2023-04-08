@@ -12,7 +12,7 @@
 
 - :rocket: &nbsp; I'm currently working on various projects.
 
-- :cloud: &nbsp; I explore cloud technologies
+- :cloud: &nbsp; I explore cloud technologies (mostly AWS).
 
 - :sparkles: &nbsp; I'm learning something all the time!
 
