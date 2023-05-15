@@ -20,6 +20,14 @@
 
 - :test_tube: &nbsp; I like to experiment.
 
+---
+
+[My Credly profile](https://www.credly.com/users/jakub-gania/badges)
+
+![aws-certified-cloud-practitioner-2](https://github.com/jakubgania/jakubgania/assets/21696393/9fa75a20-b641-4c5b-b6c9-31f0e1a723d1)
+
+
+
 <!-- :test_tube: -->
 
 <!--
