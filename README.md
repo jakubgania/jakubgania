@@ -41,7 +41,13 @@ In addition, I'm also interested in things like cloud computing, computers in ge
 
 <!-- ![aws-certified-cloud-practitioner-2](https://github.com/jakubgania/jakubgania/assets/21696393/9fa75a20-b641-4c5b-b6c9-31f0e1a723d1) -->
 
-:computer: &nbsp; :rocket: &nbsp; :cloud: &nbsp; :sparkles: &nbsp; :test_tube: 
+<!-- :computer: &nbsp; :rocket: &nbsp; :cloud: &nbsp; :sparkles: &nbsp; :test_tube:  -->
+
+<center>
+  <p align = "center">
+    :computer: &nbsp;  &nbsp; :rocket: &nbsp;  &nbsp; :cloud: &nbsp;  &nbsp; :sparkles: &nbsp;  &nbsp; :test_tube: 
+  </p>
+</center>
 
 <!-- :test_tube: -->
 
