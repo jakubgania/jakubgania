@@ -11,7 +11,7 @@ Hi, I'm Jakub! 👋
 
 I'm a software developer from Dortmund, Germany.
 
-I mainly create websites, this is currently my main specialization. In my projects I use technologies such as HTML/CSS/JavaScript and additionaly Next.js and Tailwind CSS. However, these are not the only technologies I use or have used in the past.
+I mainly create websites, this is currently my main specialization. In my projects I use technologies such as HTML - CSS - JavaScript and additionaly Next.js and Tailwind CSS. However, these are not the only technologies I use or have used in the past.
 
 Cloud technologies - this is the next topic that I am constantly discovering. I try to leran about typical cloud services and various concepts related to it. 
 
