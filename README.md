@@ -45,7 +45,7 @@ In addition, I'm also interested in things like cloud computing, computers in ge
 
 <center>
   <p align = "center">
-    :computer: &nbsp;  &nbsp; :rocket: &nbsp;  &nbsp; :cloud: &nbsp;  &nbsp; :sparkles: &nbsp;  &nbsp; :test_tube: 
+    💻 &nbsp;  &nbsp; 🚀 &nbsp;  &nbsp; ☁️ &nbsp;  &nbsp; ✨ &nbsp;  &nbsp; 🧪
   </p>
 </center>
 
