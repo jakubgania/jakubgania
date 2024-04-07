@@ -1,8 +1,9 @@
-<p align="center">
+<p align="left">
   <samp>
     <a href="https://jakubgania.io">my links</a> .
     <a href="https://www.youtube.com/@jakubganiasoftware/featured">youtube</a> .
     <a href="https://twitter.com/jakubgania">twitter</a> .
+    <a href="https://twitter.com/jakubgania](http://linkedin.com/in/jakubgania/">linkedin</a> .
     <a href="https://www.credly.com/users/jakub-gania/badges">credly</a>
   </samp>
 </p>
@@ -14,13 +15,13 @@
 Building Websites & Exploring Cloud ☁️
 
 Tech stack:
-- Next.js,
-- Tailwind CSS,
-- HTML,
-- CSS,
-- JS,
-- TS,
-- Python,
+- Next.js
+- Tailwind CSS
+- HTML
+- CSS
+- JavaScript
+- TypeScript
+- Python
 - AWS
 
 Always curious about: AI, ML, DL and web dev trends
