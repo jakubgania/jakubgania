@@ -7,13 +7,32 @@
   </samp>
 </p>
 
-Hi, I'm Jakub! 👋
+#### Hi there 👋
 
-I'm a software developer from Dortmund, Germany.
+<!-- I'm a software developer from Dortmund, Germany. -->
 
-I mainly create websites, this is currently my main specialization. In my projects I use technologies such as HTML - CSS - JavaScript and additionaly Next.js and Tailwind CSS. However, these are not the only technologies I use or have used in the past.
+Building Websites & Exploring Cloud ☁️
 
-Cloud technologies - this is the next topic that I am constantly discovering. I try to learn about typical cloud services and various concepts related to it. 
+Tech stack:
+- Next.js,
+- Tailwind CSS,
+- HTML,
+- CSS,
+- JS,
+- TS,
+- Python,
+- AWS
+
+Always curious about: AI, ML, DL and web dev trends
+
+I share my toughts on [X](https://www.twitter.com/jakubgania) and [LinkedIn](http://linkedin.com/in/jakubgania/)
+
+Sometimes I add some videos to my [YouTube](http://www.youtube.com/@JakubGaniaSoftware) channel
+
+
+<!-- I mainly create websites, this is currently my main specialization. In my projects I use technologies such as HTML - CSS - JavaScript and additionaly Next.js and Tailwind CSS. However, these are not the only technologies I use or have used in the past.
+
+<!-- Cloud technologies - this is the next topic that I am constantly discovering. I try to learn about typical cloud services and various concepts related to it.
 
 In addition, I'm also interested in things like cloud computing, computers in general, artificial intelligence, machine learning, web development technologies and so on.
 
@@ -43,11 +62,13 @@ In addition, I'm also interested in things like cloud computing, computers in ge
 
 <!-- :computer: &nbsp; :rocket: &nbsp; :cloud: &nbsp; :sparkles: &nbsp; :test_tube:  -->
 
+<!--
 <center>
   <p align = "center">
     💻 &nbsp;  &nbsp; 🚀 &nbsp;  &nbsp; ☁️ &nbsp;  &nbsp; ✨ &nbsp;  &nbsp; 🧪
   </p>
 </center>
+-->
 
 <!-- :test_tube: -->
 
