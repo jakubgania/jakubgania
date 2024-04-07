@@ -15,6 +15,8 @@
 Building Websites & Exploring Cloud ☁️
 
 Tech stack:
+Next.JS, Tailwind CSS, HTML, CSS, JavaScript, TypeScript, Python, AWS
+<!--
 - Next.js
 - Tailwind CSS
 - HTML
@@ -23,6 +25,7 @@ Tech stack:
 - TypeScript
 - Python
 - AWS
+-->
 
 Always curious about: AI, ML, DL and web dev trends
 
