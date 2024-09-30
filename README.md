@@ -12,7 +12,7 @@
 
 <!-- I'm a software developer from Dortmund, Germany. -->
 
-Building Websites & Exploring Cloud ☁️
+Building websites & exploring cloud technologies ☁️
 
 Tech stack:
 Next.JS, Tailwind CSS, HTML, CSS, JavaScript, TypeScript, Python, AWS
