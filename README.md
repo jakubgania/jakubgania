@@ -2,7 +2,7 @@
   <samp>
     <a href="https://jakubgania.io">my links</a> .
     <a href="https://www.youtube.com/@jakubganiasoftware/featured">youtube</a> .
-    <a href="https://twitter.com/jakubgania">twitter</a> .
+    <a href="https://twitter.com/jakubgania">X</a> .
     <a href="https://twitter.com/jakubgania](http://linkedin.com/in/jakubgania/">linkedin</a> .
     <a href="https://www.credly.com/users/jakub-gania/badges">credly</a>
   </samp>
