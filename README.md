@@ -1,6 +1,6 @@
 <p align="left">
   <samp>
-    <a href="https://jakubgania.io">my links</a> .
+    <a href="https://jakubgania.io">my site</a> .
     <a href="https://www.youtube.com/@jakubganiasoftware/featured">youtube</a> .
     <a href="https://twitter.com/jakubgania">X</a> .
     <a href="http://linkedin.com/in/jakubgania/">linkedin</a> .
@@ -8,14 +8,14 @@
   </samp>
 </p>
 
-#### Hi there 👋
+#### Software Engineer
+
+Building full-stack web applications and backend systems.
+
+Interested in system architecture, reliability, data flows and product engineering.
 
 <!-- I'm a software developer from Dortmund, Germany. -->
 
-Building websites & exploring cloud technologies ☁️
-
-Tech stack:
-Next.JS, Tailwind CSS, HTML, CSS, JavaScript, TypeScript, Python, AWS
 <!--
 - Next.js
 - Tailwind CSS
@@ -26,13 +26,6 @@ Next.JS, Tailwind CSS, HTML, CSS, JavaScript, TypeScript, Python, AWS
 - Python
 - AWS
 -->
-
-Always curious about: AI, ML, DL and web dev trends
-
-I share my toughts on [X](https://www.twitter.com/jakubgania) and [LinkedIn](http://linkedin.com/in/jakubgania/)
-
-Sometimes I add some videos to my [YouTube](http://www.youtube.com/@JakubGaniaSoftware) channel
-
 
 <!-- I mainly create websites, this is currently my main specialization. In my projects I use technologies such as HTML - CSS - JavaScript and additionaly Next.js and Tailwind CSS. However, these are not the only technologies I use or have used in the past.
 
