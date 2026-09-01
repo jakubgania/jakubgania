@@ -14,6 +14,11 @@ Building full-stack web applications and backend systems.
 
 Interested in system architecture, reliability, data flows and product engineering.
 
+Latest articles on LinkedIn:
+- [GPU Programming on Apple Silicon](https://www.linkedin.com/pulse/gpu-programming-apple-silicon-jakub-gania-msj3e)
+- [What Is MLX? A Practical Introduction to Apple's Machine Learning Framework](https://www.linkedin.com/pulse/what-mlx-practical-introduction-apples-machine-learning-jakub-gania-wyzhe)
+- [Apple Silicon: A Technical History of the M-Series, from M1 to M5](https://www.linkedin.com/pulse/apple-silicon-technical-history-m-series-from-m1-m5-jakub-gania-n3afe)
+
 <!-- I'm a software developer from Dortmund, Germany. -->
 
 <!--
